@@ -2,4 +2,7 @@
 
 apt update 
 apt install -y cmake
-cmake .
+mkdir build
+cd build
+cmake ..
+make install
