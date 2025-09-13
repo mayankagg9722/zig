@@ -4,7 +4,7 @@ set -euo pipefail
 # --- CONFIG ---
 LLVM_VERSION=20
 
-echo "[*] Updating system packages..."
+echo "[*] Updating system packages....."
 # apt-get update -y
 
 # echo "[*] Installing build essentials (gcc, g++, make, etc.)..."
