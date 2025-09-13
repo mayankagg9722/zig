@@ -144,4 +144,4 @@ encouraged to be aware of the social structures of the spaces they inhabit, and
 work purposefully to facilitate spaces that align with their values.
 
 Please see the [Community](https://github.com/ziglang/zig/wiki/Community) wiki
-page for a public listing of social spaces.
+page for a public listing of social spaces.fasdf
